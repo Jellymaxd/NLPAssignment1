@@ -1,0 +1,824 @@
+﻿1,"Most U.S. stocks rose after the Trump administration resuscitated hopes for a spending package. Treasuries remained higher.
+
+The S&P 500 edged higher to pare a weekly decline. It erased losses after White House Chief of Staff Mark Meadows said he expects a deal in a day or so. Tech shares underperformed after Intel Inc. plunged more than 10%, dragging chipmakers lower. American Express Co. also faltered following earnings. Gilead Sciences Inc. rose after its antiviral therapy become the first drug formally cleared to treat Covid-19. The 10-year Treasury yield slipped to 0.83%. Oil slipped below $40 a barrel in New York.
+
+
+Investors remain focused on Washington, where lawmakers are haggling over a financial spending bill to prop up the economy before the Nov. 3, though optimism that a deal will come at some point this year has helped drive Treasury rates higher in recent days. Concerns remain that rising virus cases will force additional business closures. The final presidential debate appeared to do little to alter the trajectory of a race that Democrat Joe Biden leads according to polls.
+
+Europe’s equities market notched its first increase this week. Barclays Plc jumped after reporting improved stocks trading, lifting U.K. banking shares. Carmakers climbed after Daimler AG raised its profit forecast and Renault SA topped revenue estimates, the latest signs the global auto industry is emerging from its worst slump in decades.
+“The focus is shifting toward de-risking,” said Eleanor Creagh, a market strategist at Saxo Capital Markets, on Bloomberg TV. “There’s a range of outcomes from the elections that could have a huge capacity to change market sentiment and dynamics very quickly.”Growing coronavirus infections around the world continued to weigh on markets. U.S. cases exceeded 70,000 for the first day since late July. In Europe, governments have started deploying curfews and other restrictions more widely.Elsewhere, China’s yuan climbed after an official with the country’s foreign exchange watchdog said Friday the currency’s appreciation has been “relatively moderate.”
+
+Here are the major moves in markets:
+
+Stocks
+The S&P 500 Index rose 0.4% as of 4 p.m. New York time.
+The Nasdaq 100 Index added 0.3%.
+The Stoxx Europe 600 Index gained 0.6%.
+The MSCI Asia Pacific Index was little changed.
+Currencies
+The Bloomberg Dollar Spot Index dipped 0.2%.
+The British pound decreased 0.3% to $1.3038.
+The euro rose 0.4% to $1.186.
+The Japanese yen strengthened 0.1% to 104.72 per dollar.
+The Turkish lira weakened 0.4% to 7.9673 per dollar.
+Bonds
+The yield on 10-year Treasuries fell one basis point to 0.84%.
+The two-year rate was flat at 0.15%
+Germany’s 10-year yield fell one basis point to -0.574%.
+Britain’s 10-year yield slipped to 0.28%.
+Commodities
+West Texas Intermediate crude lost 2.3% to $39.70 a barrel.
+Gold futures fell less than 0.1% to $1,904 an ounce."
+2,"International stock market linkage is an issue of interest in the
+financial literature for numerous reasons. For investors, it has important
+implications for asset management and portfolio diversification.
+Stock market linkage or segmentation is an important factor when
+estimating the impact of liberalizations on the cost of capital through
+an international asset-pricing model with investment restrictions.
+Such implications have sparked interest in the vast amount of
+literature that investigates stock market linkages both for developed
+countries and for emerging and transition economies, particularly the
+significant variation displayed in the co-movement patterns of stock
+markets due to dramatic changes in investment behavior following
+major economic events such as crises resulted from sudden and
+simultaneous materialization of risks. Indeed, the extent to which
+financial crises have structurally changed the inter-relationship across
+stock markets has been a focal point of many studies concerning the
+Asian financial crisis in 1997 and 1998 Russian financial crisis among
+others.
+More recently, brought about by a crisis in the financial sector,
+synchronized global economic downturns emerged toward the end of
+2008 with far-reaching consequences worldwide. The 2008 financial
+crisis has been deemed by many leading scholars to be the worst since
+the Great Depression of the 1930s. Stock markets have been seriously
+hit, with some indices reaching all-time lows. Given the profound
+influence of the recent financial turmoil and its potentially different
+implication from the previous crises, it is essential to investigate how
+and in what ways the 2008 crisis has affected international stock market
+linkages.
+Accordingly, we examine both short-run dynamic causal
+linkages and long-run relationships among the US and seven Asian
+stock markets, namely Japan, China, Hong Kong, Korea, Singapore,
+Malaysia and Thailand, in relation to the 2008 global financial crisis.
+The data employed in our study are end-of-day stock price indices in
+local currencies of the Dow Jones Industrial Average (US), Nikkei 225
+(Japan), Shanghai A-share index (China), Hang Seng Index (Hong
+Kong), Korea Composite Stock Price Index (South Korea), FTSE
+Straits Times Index (Singapore), Kuala Lumpur Composite Index (now
+known as FTSE Bursa Malaysia KLCI) and Stock Exchange of Thailand.
+Indices are collected from DataStream for the period from January
+2004 to July 2011. We conduct comparative analysis of pre-crisis, crisis
+and post-crisis periods to evaluate how stock market linkages have
+been affected.
+The structural break points when the market indices took a
+significant turn were estimated without prior information. Using
+a modified Stata software procedure taken from Stock and Watson
+(2007), we test the Quandt Likelihood Ratio (QLR) statistics where
+the maximum test statistics indicate possible structural break points.
+Critical values for the QLR statistics are obtained from the same source.
+Specifically, January 2004 to October 2007, May 2008 to January 2009
+and March 2009 to July 2011 were identified as the pre-crisis, crisis and
+post-crisis periods, respectively.
+For each period, we perform ADF and PP tests to determine the
+order of integration of the stock indices. The null hypothesis that
+stock indices in the levels are non-stationary is not rejected for all
+the markets, while the null hypothesis using first log differences are
+strongly rejected. This indicates that the stock market indices of all
+eight economies were not stationary (i.e., non-stationary series at
+levels) and are integrated to order 1.
+In addition, we find the returns from individual markets
+were positively correlated. In the pre-crisis period, Singapore and
+Hong Kong correlated strongly with most of the other economies
+under investigation. The US, on the other hand, evidenced modest
+relationships with other markets. China, which holds the third-largest
+market capitalization in Asia, was a relatively isolated market as it had
+weak correlations to all other seven markets. During the crisis, the pairwise correlations between markets were strengthened. The return in
+the Hong Kong market was related to those of Japan, Korea, Singapore,
+Thailand and to a lesser extent China. Singapore’s market return
+appears to have been strongly related to those of Hong Kong, Japan,
+Korea and Malaysia. The Shanghai and US markets still appear to have
+been less correlated to other Asian markets. In the post-crisis period,
+the bonds between most markets appear to have reverted but remained
+stronger than at the pre-crisis level. The Malaysian market displayed a
+higher correlation with both Hong Kong and the US. Meanwhile, the
+US also showed a strengthened relationship with the Japanese market.
+Throughout the sample period the US remained an important
+leading market in the group as its market returns were found to
+Granger-cause most of the other markets’ movements. The financial
+crisis in 2008 does not appear to have affected the relatively influential
+role of the US market over others. The Chinese market became more
+important in leading the regional stock market return after the financial
+crisis unfolded, but the impact died off for the post-crisis period.
+We then look at the co-integrating relationships to examine the
+long-run linkages across the eight markets under investigation. The
+null hypothesis of no co-integration is consistently rejected at 5% level
+for pre- and post-crisis periods, indicating a long-term equilibrium
+relationship between stock market price indices. This means that
+the stock indices of the eight markets under investigation share one
+single common stochastic trend and that stock prices are aligned
+closely across markets, indicating that investors with long hold periods
+wishing to gain from international diversification across Asian and US
+markets should be more cautious. During the buildup to the crisis, it
+was the Hong Kong and Japanese markets that bore the brunt of shortJournal of Stock & Forex Trading
+ISSN: 2168-9458
+Journal of Stock & Forex Trading
+Citation: Huang W, Zhang Y, Yang W (2013) Pre and Post-2008 Crisis Stock Market Linkage between U.S. and Asian Markets. J Stock Forex Trad
+3: e125. doi:10.4172/2168-9458.1000e125
+Page 2 of 2
+Volume 3 • Issue 1 • 1000e125 J Stock Forex Trad
+ISSN: 2168-9458 JSFT, an open access journal
+run adjustments to the long-run equilibrium. All the markets except
+that of China became more responsive to the long-run equilibrium
+after the crisis, although with slower adjustment.
+To further explore the dynamic property of stock market linkages,
+we use generalized impulse response functions to demonstrate the
+responses of stock indices to random innovation from other markets.
+These impulses trace the effect of a shock of one market return on the
+current and future movement of other markets. We find the influence
+of unanticipated foreign market shocks were generally felt within three
+trading days following the innovation. The responses during the crisis
+period to any random innovation were of a larger magnitude than those
+in the non-crisis period, particularly for the first few days immediately
+after the shocks. Moreover, the impact of foreign market innovation
+tended to be longer lived during the crisis as it generally took more
+trading days for the effect of the shocks to die off. This is in line with
+our findings that during the crisis period the market linkages among
+the eight economies became stronger and more profound.
+The decomposition of forecast error variance based on the VAR
+system suggest that, for the pre-crisis period, at a 20-day planning
+horizon, for instance, the proportion of domestic stock return variance
+that could be collectively attributable to other markets ranged from 1.6%
+for the US, to 49.6% for Korea and 52.1% for Singapore. This indicates
+that for markets in Asia except that of China, a large proportion of
+domestic stock return variance could be attributable to foreign shocks,
+hence strengthening the interdependence of stock market returns
+regionally and globally. This effect became more prominent during
+the crisis period, where these proportions grew much higher for all
+the markets. The linkage is also generally stronger in the post-crisis
+period than in the pre-crisis period. Our results appear to support
+the reduced degree of exogeneity of stock markets and the contagion
+effects of the crisis given the intensified responsiveness to innovations
+in other markets. After the crisis had run its course, the influences of
+foreign shock were moderated but remained higher than in the precrisis period.
+Together, our study provides evidence on how the latest financial
+crisis has affected stock market intertemporal linkages between the US
+and seven Asian economies. Our result is robust to alternative structural
+break test - Quandt-Andrews test - and alternative measurement by
+translating all the indices to a common currency of USD. The finding
+in this paper of strengthened stock market linkages during the recent
+global financial crisis stands in sharp contrast to previous studies which
+have found that stock market integration was weakened or unaffected
+during the 1997-1998 Asian financial crises. Our results support the
+proposition by Bekaert and Harvey (1995) that stock market integration
+is time-varying, particularly around periods marked by financial crises.
+Consequently, the benefits of international diversification in times of
+crisis are substantially diminished."
+3,"The stock market closed mostly higher Friday after an up and down session in which small caps outperformed for a second straight day. Leading stocks also came out in better shape.
+
+The Nasdaq composite climbed 0.4% as a soft technology sector hobbled the tech-heavy composite. Semiconductors kept chipping into the sector after a poor earnings report from Intel (INTC) hit the sector. VanEck Vectors Semiconductor ETF (SMH) fell 0.2% for its eighth loss in the past nine sessions. The ETF is now below a 184.71 buy point.
+
+The S&P 500 closed 0.3% higher after it picked itself back up from midday lows. Both the S&P 500 and Nasdaq closed near session highs, although within relatively small price ranges.
+
+The Dow Jones Industrial Average fell 0.1% as quarterly results sent Intel and American Express (AXP) lower Friday. American Express fell 3.6% after earnings missed estimates. Intel plunged 10.6% to an 11-week low on weak data-center chip sales. The Dow is back to being down for the year, off less than 1%.
+
+U.S. Stock Market Today Overview
+Index	Symbol	Price	Gain/Loss	% Change
+Dow Jones	(0DJIA)	28336.62	-27.04	-0.10
+S&P 500	(0S&P5)	3465.59	+12.10	+0.35
+Nasdaq	(0NDQC )	11548.28	+42.28	+0.37
+Russell 2000	(IWM)	162.98	+0.85	+0.52
+IBD 50	(FFTY)	38.33	+0.30	+0.79
+Last Update: 4:04 PM ET 10/23/2020
+In a positive signal, the three indexes are still rising from pullbacks to their 21-day exponential moving averages, even if the rebounds so far are meager.
+
+Small caps led as the Russell 2000 added 0.6%. On a dull day, that increase was good enough to outperform the major indexes. On Thursday, the Russell also led with a 1.7% increase.
+
+While indexes were quiet, breadth was positive. Advancing stocks led decliners by 3-2 on the Nasdaq and by 12-7 on the NYSE. Volume rose, which also suggested net buying in today's trading.
+
+Innovator IBD 50 ETF (FFTY) rose 0.8%, as the ETF tries to snap out of a two-week downtrend.
+
+IBD 50 stocks remained in their current patterns, with no significant change. National Beverage (FIZZ) was off more than 2% as it traveled back near its 86.37 buy point.
+
+With a dull session Friday, it wasn't much of a day for breakouts. Few had any remarkable price and volume action, but one that did was Harley Davidson (HOG)."
+4,"The stock market closed mostly higher Friday after an up and down session in which small caps outperformed for a second straight day. Leading stocks also came out in better shape.
+
+The Nasdaq composite climbed 0.4% as a soft technology sector hobbled the tech-heavy composite. Semiconductors kept chipping into the sector after a poor earnings report from Intel (INTC) hit the sector. VanEck Vectors Semiconductor ETF (SMH) fell 0.2% for its eighth loss in the past nine sessions. The ETF is now below a 184.71 buy point.
+
+The S&P 500 closed 0.3% higher after it picked itself back up from midday lows. Both the S&P 500 and Nasdaq closed near session highs, although within relatively small price ranges.
+
+The Dow Jones Industrial Average fell 0.1% as quarterly results sent Intel and American Express (AXP) lower Friday. American Express fell 3.6% after earnings missed estimates. Intel plunged 10.6% to an 11-week low on weak data-center chip sales. The Dow is back to being down for the year, off less than 1%.
+
+U.S. Stock Market Today Overview
+Index	Symbol	Price	Gain/Loss	% Change
+Dow Jones	(0DJIA)	28336.62	-27.04	-0.10
+S&P 500	(0S&P5)	3465.59	+12.10	+0.35
+Nasdaq	(0NDQC )	11548.28	+42.28	+0.37
+Russell 2000	(IWM)	162.98	+0.85	+0.52
+IBD 50	(FFTY)	38.33	+0.30	+0.79
+Last Update: 4:04 PM ET 10/23/2020
+In a positive signal, the three indexes are still rising from pullbacks to their 21-day exponential moving averages, even if the rebounds so far are meager.
+
+Small caps led as the Russell 2000 added 0.6%. On a dull day, that increase was good enough to outperform the major indexes. On Thursday, the Russell also led with a 1.7% increase.
+
+While indexes were quiet, breadth was positive. Advancing stocks led decliners by 3-2 on the Nasdaq and by 12-7 on the NYSE. Volume rose, which also suggested net buying in today's trading.
+
+Innovator IBD 50 ETF (FFTY) rose 0.8%, as the ETF tries to snap out of a two-week downtrend.
+
+IBD 50 stocks remained in their current patterns, with no significant change. National Beverage (FIZZ) was off more than 2% as it traveled back near its 86.37 buy point.
+
+With a dull session Friday, it wasn't much of a day for breakouts. Few had any remarkable price and volume action, but one that did was Harley Davidson (HOG)."
+5,"Farfetch (FTCH) is the IBD Stock Of The Day, as the London-based online fashion clearinghouse hovers near a buy point. Farfetch stock also is edging closer to a record high.
+
+Launched in 2008, Farfetch provides a global e-commerce platform for the luxury fashion industry, connecting consumers and retailers.
+
+The company says it offers items ""from more than 50 countries and nearly 1,300 of the world's best brands, boutiques and department stores, delivering a truly unique shopping experience on a single platform.""
+
+Farfetch stock has formed a cup-with-handle pattern with a buy point of 28.91. The buy zone extends to 30.35.
+
+Farfetch stock jumped 5.9% to close at 29.98 on the stock market today.
+
+Farfetch Stock: IPO Held In 2018
+Additional businesses owned by the company include Farfetch Platform Solutions, which services enterprise clients with e-commerce and technology capabilities.
+
+Another business unit is Browns and Stadium Goods, which provides high-end sneakers and streetwear. It also operates New Guards Group, an Italian contemporary luxury fashion production and distribution holding company.
+
+Farfetch held its initial public offering in September 2018 that raised $884 million. Farfetch stock popped 42% on its first day of trading. The company's IPO prospectus said its mission ""is to be the global technology platform for luxury fashion, connecting creators, curators and consumers.""
+
+The company reported second-quarter earnings on Aug. 13. Revenue jumped 74% from the year-ago period to $365 million, beating estimates of $316 million. It showed an adjusted loss of 20 cents, wider than an expected loss of 15 cents.
+
+Farfetch will report third-quarter results on Nov. 11. Wall Street expects an adjusted loss of 30 cents per share on revenue of $367 million, up 44%, according to FactSet.
+
+IBD Checkup On Farfetch
+The IBD Stock Checkup Tool shows that Farfetch has an IBD Composite Rating of 79 out of a best-possible 99. The rating means Farfetch stock currently outperforms 79% of all stocks in terms of the most important fundamental and technical stock-picking criteria
+
+The stock also has a Relative Strength Rating of 97. The rating tracks market leadership by showing how a stock's price movement over the last 52 weeks measures up against that of other stocks.
+
+In addition, the relative strength line has been on an upward trend but is below its record high set in August. An upward-sloping relative strength line means the stock is outperforming the S&P 500. A downward-sloping line means the stock is lagging the S&P 500.
+
+Before making any investment decisions, be sure to check current market conditions and use IBD Stock Checkup to see if your stock gets passing ratings for the most important fundamental and technical criteria.
+
+Farfetch stock has nearly doubled this year."
+6,"Here's your Investing Action Plan for Thursday: what you need to know as an investor for the coming day. China stocks continue to roll out earnings with search leader Baidu (BIDU) and gaming giant NetEase (NTES) due next as the Trump administration targets tech leaders Tencent (TCEHY) and TikTok parent ByteDance. Meanwhile, Applied Materials (AMAT), hot IPO Azek (AZEK) and e-commerce stock Farfetch (FTCH) also report.
+
+More China Stocks To Report
+NetEase reports early, and analysts see EPS rising 8.7% to $3.74 while revenue slips 10% to $2.46 billion. Baidu reports late, and EPS is seen falling 5.4% to $1.39 as revenue drops 4.6% to $3.66 billion. They add to the week's parade of China stocks delivering Q2 results. On Wednesday, internet giant Tencent, whose WeChat messaging app is one of the Chinese platforms Trump wants to ban from the U.S., beat earnings views, helped by strong video game results. On Tuesday, social media company Huya (HUYA) beat views on Tuesday, and streaming music spinoff Tencent Music Entertainment (TME) also topped forecasts on Monday.
+
+Other Earnings
+Azek reports early, it first quarterly results since going public in June, and analysts see EPS of 14 cents on revenue of $212 million.
+Farfetch reports late, and the fashion e-commerce platform is seen widening per-share losses to 36 cents from 15 cents a year ago, while revenue jumps 51% to $316 million.
+Applied Materials reports fiscal Q3 results late, and the chip equipment maker's EPS is seen rising 28% to 95 cents as sales grow 18% to $4.2 billion."
+7,"Call it a split decision on Wall Street on JFrog, a software company that arrived on the public market in mid-September.
+
+The company (ticker: FROG), which helps application providers offer continuous software updates, went public on Sept. 16 at $44 a share, closed the first day of trading at $64.76 and has moved up modestly from there.
+
+At least nine analysts began coverage on the company on Monday, with four Buy or Overweight ratings—J.P. Morgan, KeyBanc, Oppenheimer and Needham—and five Neutral or Equal Weight ratings, including William Blair, Stifel, Piper and Bank of America.
+
+The IPO was underwritten by J.P. Morgan, Morgan Stanley and BofA.
+
+
+The bull case: J.P. Morgan’s Sterling Auty issued an Overweight rating and Street-high target price of $90. “Digital transformations are accelerating, and that means companies across all industries are writing new software applications to automate different parts of their business,” he writes in a research note. “The increase in application development has fueled the adoption of DevOps [an approach that combines software development with IT operations to speed rollout times] as a process to speed development and upgrades of applications. The growth in application development and increasing use of multiple development languages and deployment options are motivating more companies to adopt the use of an artifact repository, a solution where JFrog is considered the gold standard.”
+
+The bear case: OK, this isn’t quite an all-out bear case, but Morgan Stanley analyst Sanjit Singh initiated coverage with an Equal Weight rating and Street-low price target of $67. “JFrog accelerates product innovation by cutting down the time to update and release software,” Singh writes in a research note. But he says that “the potential for escalating competition with developer focused platforms such as Atlassian, Microsoft Azure and Amazon AWS represent the key risk to the JFrog story…each has ambitions to more fully consolidate large portions of the software release cycle onto their cloud platforms.”
+
+He says the company has “an attractive and profitable opportunity,” but that with the stock trading at 38 times estimates 2021 revenue, success “looks priced in.” Singh notes that similar software stocks, including Atlassian (TEAM), Elastic (ESTC), MongoDB (MDB) and Twilio (TWLO) trade for about 22 times estimated 2021 revenue.
+
+Jfrog shares rose 3.7% to $76.73 on Monday. The Dow Jones Industrial Average rose 0.9%."
+8,"Shares of General Electric Co. surged to the highest price seen in four months before pulling back, as Wall Street has gotten a little more optimistic on the outlook ahead of the industrial conglomerate’s earnings report.
+
+The stock GE, -1.16% climbed as much as 4.0% to an intraday high of $8.03, the highest price seen since June 9, before pulling back to trade down 0.7%. It has still soared 23.0% in October, making the stock the best month-to-date performer among the SPDR Industrial Select Sector exchange-traded fund’s XLI, +0.39% components, and the fourth-best performer in the S&P 500. SPX, +0.34%
+GE is scheduled to report third-quarter earnings on Oct. 28, before the market opens. The average estimate of analysts surveyed by FactSet is for GE to swing to an adjusted loss of 4 cents a share from earnings of 15 cents a share a year ago. Revenue is expected to be $18.72 billion, up from an estimate of $18.69 billion at the end of September, but down from $23.36 billion a year ago.
+
+Analyst Markus Mittermaier at UBS reiterated the buy rating he’s had on the stock since December 2019, but bumped up his price target to $9.00 from $8.50. He said recent comments from GE management that second-half 2020 free cash flow (FCF) would be positive has given him confidence in this 2H FCF estimate of $2.5 billion, which is above Wall Street expectations of about $1.75 billion.
+
+Don’t miss: GE’s stock surges to best 2-day rally in 6 months after CEO Larry Culp’s upbeat comments.
+
+He acknowledges that more clarity on second-half cash flows is “necessary but not sufficient” for the stock to work, as he expects near-term volatility related to COVID-19 and sentiment on air travel, with new coronavirus case numbers likely to get worse before they get better. See MarketWatch’s coronavirus update.
+
+However, Mittermaier said he believes GE investors are increasingly focusing on the outlook for FCF up to 2022 and beyond.
+
+And data from the Transportation Security Administration showed the number of daily travelers had topped the one-million mark earlier this week for the first time since mid-March.
+
+See related: GE’s stock gets a big boost after news that Boeing’s 737 MAX could fly again this year.
+
+“[O]n a 12-month basis, we see significant upside in the stock,” Mittermaier wrote in a note to clients. “We think this is currently the most vaccine-levered stock in our coverage.”
+
+And GE investors received good news on the vaccine front late Thursday, as the Food and Drug Administration approved the first COVID-19 treatment, Gilead Sciences Inc.’s GILD, +0.19% Veklury, for patients who have been hospitalized with COVID-19 infections. Wolfe Research analyst Nigel Coe is also upbeat on what a vaccine could mean for GE’s stock, and for GE’s aviation business, at a time when consensus Wall Street estimates are more bearish for that business versus GE’s peers. And with estimates now “well calibrated for this deep trough,” Coe thinks the stock is “too cheap” at current levels.
+
+He thinks investor sentiment toward GE will move in tandem with global airline capacity, thus making GE the “most compelling post-COVID play” within the electrical equipment/multi-industry (EE/MI) sector. While estimates could be reset lower into 2021 as the number of new cases rise, “we don’t think this matters,” Coe said, as the stock has been on a tear this month despite the recent jump in cases.
+
+“A sharp rebound in airline passenger traffic in 2021 could be a major catalyst, since this is the single biggest value driver for the stock,” Coe wrote. “We think GE could trade disproportionately in tandem with the outlook for a commercial COVID-19 vaccine.”
+
+Despite the recent rally, the stock has still tumbled 31.3% year to date, while the industrial ETF has slipped 0.7% and the S&P 500 index has gained 6.9%.
+
+More on what Wall Street expects from GE earnings
+
+Estimize, a crowdsourcing platform that gathers estimates from buy-side analysts, hedge-fund managers, company executives, academics and others, as well as from Wall Street analysts, has a consensus per-share loss estimate of 3 cents.
+
+The Estimize revenue consensus is $18.93 billion.
+
+The stock has declined on the day the past two earnings reports were released, by an average of 3.8%.
+
+For GE’s business segments, the FactSet revenue consensus is $4.95 billion for Aviation, $$.48 billion for Renewable Energy, $4.14 billion for Healthcare and $3.89 billion for Power.
+
+The average estimate, of the two analysts who provided free-cash-flow estimates to FactSet, is a negative $1.03 billion, with a range of negative $1.18 billion to negative $876 million."
+9,"Sprouts Farmers Market was a Covid-19 winner, and then it was a Covid-19 loser. Its earnings report on Oct. 28 could make it a winner again.
+
+Almost all food retailers got a boost this spring from mass pantry stocking, and Phoenix-based Sprouts (ticker: SFM), which has about 350 stores in 23 states, was no exception. Its shares doubled from their March low through their July peak as investors bet that all grocers would benefit from demand for food.
+
+Reality fell far short of those hopes, however. After peaking in the March quarter, Sprouts’ same-store sales declined as consumers favored one-stop-shops like Target (TGT) and Walmart (WMT) to reduce the risk of virus exposure. Its stock has dropped 22% in the past three months.
+
+Sprouts’ earnings could help the stock reverse course. The company will report third-quarter results on Wednesday, Oct. 28, with consensus calling for earnings per share to nearly double year over year to 36 cents on sales of $1.6 billion. Robust numbers are expected across the industry, given people’s new cooking habits, so the real focus is on how companies plan to parlay the windfall into sustainable growth. If Sprouts can deliver, the stock could climb.
+
+Editor's Choice
+Sprouts shares are unpopular on Wall Street, with less than a third of analysts bullish on its prospects and a fresh downgrade this past week.
+
+Nonetheless, there are trends working in the company’s favor. Even with lockdowns over—at least for now—and restaurants slowly reopening, eating at home isn’t going away. Cooking not only reduces the risk of virus exposure, but it’s much cheaper than restaurant food—a compelling catalyst given high unemployment and the uncertainty over further stimulus.
+
+And the amount of money in play is immense. In 2018, about 46% of the $1.7 trillion of U.S. food spending was for food at home, observes Scott Mushkin, founder and CEO of R5 Capital. Just two more food-at-home occasions a week would lift that figure by more than $130 billion, he estimates. For Sprouts, with less than 1% market share, that could mean incremental revenues of $800 million. “It’s a big deal,” he says.
+
+Because of the virus, shoppers have a renewed focus on health, which should provide a boost as well. “The top two reasons people choose a store are the quality of fresh produce and the price. Sprout’s strategy is right down the power alley here,” Mushkin says. “That strategy was working before the pandemic, and it will work much better postpandemic, given where the consumer has migrated.”
+
+Why has Sprouts stock been dropping? For starters, there are tough comparisons coming in 2021. Analysts revised earnings estimates for the third quarter up sharply this summer, and while the Street expects profits to cool after a record $2.12 a share this year, they estimate that earnings will fall to $1.66 in 2021. Still, that’s about a third higher than the $1.25 Sprouts logged in 2019.
+
+Traffic has also been worrisome, falling 13.2% in September. But even that is starting to get better. According to data Placer.ai compiled for Barron’s, visits improved from being down nearly 24% year over year in April to off just 5.4% in August, while traffic was down just 4.8% the week of Oct. 5.
+
+“This not only indicates that the September dip will be short-lived, but that Sprouts is able to drive engagement even when the odds are against it,” the data firm notes. “When comparing Sprouts performance to other grocers associated with a healthier focus, we see performance that lines up closely with Trader Joe’s, a brand whose impressive rebound has been widely noted.”
+
+Ernesto Ramos, portfolio manager at the BMO Low Volatility Equity fund, highlights Sprouts’ new store openings, which may reach 10% growth next year, as well its delivery business—which soared 150% in 2019 “and will probably be even higher in 2020.” That’s good news, as online orders “are about 2½ times bigger than physical store purchases” and tend to have a more profitable product mix, he says.
+
+Read more Trader: The Dow Dropped This Past Week. Why It’s Time Put Your Worries Away.
+
+Sprouts’ ability to show upbeat traffic and sales trends and detail its growth plans will probably matter most in the coming quarter. Announcing a loyalty program would be a positive sign it’s looking to tap into valuable customer data.
+
+Sprouts trades around just 11.9 times forward earnings, significantly less than its five-year average of 21.6 times, and well below the S&P 500 index’s 21.9 times, even as its return on assets and equity—at an estimated 8.9% and 27.6% for 2020, respectively—are expanding.
+
+Skeptics may outweigh bulls for now, but if the company can outperform lower expectations, that could change."
+10,"Forget the election. Forget stimulus. The market is getting ready for better economic growth.
+
+You wouldn’t know it from this past week’s returns. The Dow Jones Industrial Average fell 270.74 points, or 0.9%, to 28,335.57, the S&P 500 index declined 0.5%, to 3465.39, and the Nasdaq Composite dropped 1.1% to 11,548.28, ending a four-week winning streak.
+
+The market was whipsawed by the back-and-forth negotiations over stimulus. Talks seemed to have stalled by the close of trading on Friday, and without more stimulus, the economy—and the stock market—have gotten as good as they can get.
+
+Dow Jones Industrial Average
+Source: FactSet
+Jan. 2020
+Oct.
+17500
+20000
+22500
+25000
+27500
+30000
+32500
+Earnings season would seem to confirm that suspicion. Not the results themselves, which have been quite good. Of the 135 companies that have reported so far, 83.7% have topped earnings forecasts, well above the long-term average of about 65%, while the average earnings number has been 17.7% above expectations, five times the long-term average of 3.5%. The S&P 500 has responded to such great numbers by dropping 1.9% since JPMorgan Chase’s (ticker: JPM) report kicked things off on Oct. 13. Together, the lack of stimulus and the lukewarm response to earnings would seem to imply tougher times ahead for stocks.
+
+S&P 500 Index
+Source: FactSet
+Jan. 2020
+Oct.
+2000
+2250
+2500
+2750
+3000
+3250
+3500
+3750
+But maybe not. The reason: The market appears to have different standards for perceived Covid winners and losers. Netflix (NFLX) dropped 8% this past week because it added just 2.2 million subscribers, below its own forecast for 2.5 million. Kimberly-Clark (KMB) raised its full-year guidance, but earnings fell short of analyst forecasts and the stock fell 11%. Citrix Systems (CTXS) tumbled 11% despite an earnings beat as investors worried about the transition of its business to the cloud. There was no good excuse for failing to meet high expectations.
+
+NASDAQ Composite Index
+Source: FactSet
+Jan. 2020
+Oct.
+6000
+7000
+8000
+9000
+10000
+11000
+12000
+13000
+Companies that had seen their businesses hurt during the early stages of the pandemic were rewarded for showing signs of improvement. Align Technology (ALGN), maker of Invisalign, jumped 40% this past week after its earnings nearly quadrupled estimates, while Snapchat parent Snap (SNAP) surged 55% after reporting a surprise profit and noting that advertising had started to normalize.
+
+Barron's 400 Index
+Source: FactSet
+Jan. 2020
+Oct.
+400
+450
+500
+550
+600
+650
+700
+750
+800
+Even a miss was rewarded if management could offer believably upbeat commentary about the future: Las Vegas Sands (LVS) gained 12% after its CEO said he remains “optimistic about the eventual complete recovery of travel and tourism spending across our markets.”
+
+That these stocks shot higher even as Covid cases in the U.S. continue to rise at alarming rates suggests that investors believe the economy can continue to grow in the months ahead despite the virus. And other parts of the market are starting to send a similar message. The ratio of copper to gold prices has risen to 0.1633 and is trending higher, a sign that economically sensitive stocks could be set to outperform.
+
+And just as important, the 10-year Treasury yield rose 0.097 percentage point to 0.840% this past week, signifying a possible pickup in economic growth. That’s typically a signal that the economy is getting better and that inflation is starting to rouse.
+
+“The market is starting to price in a reacceleration next year,” says Andrew Slimmon, managing director at Morgan Stanley Investment Management. “To me, it’s a much bigger theme than just fiscal stimulus and what happens with the election.”
+
+Still, don’t count out the impact of the election. Not because it matters for the market which candidate wins and which candidate loses—it doesn’t, and I’ll stick to that—but because the uncertainty over who will win is an overhang until it passes. Waiting for the vote has helped keep stocks volatile but rangebound since an early October rally. And it’s probably what has kept the 10-year Treasury yield from rising even more.
+
+“The passage of the event risk is more important than the actual changes that come with the election,” says Ian Lyngen, head of U.S. rates strategy at BMO Capital Markets. “We’ll have a much truer read on fundamentals once the election has passed.”
+
+Read more Trader: Sprouts Stock Is Ready for a Rebound
+
+Fundamentals suggest that bond yields should be much higher. Ed Yardeni, chief investment strategist at Yardeni Research, argues that the current copper-to-gold ratio implies a 10-year Treasury yield near 1.61%. The Citigroup Economic Surprise Index, a measure of whether economic data releases are coming in worse or better than expected, also points to higher yields.
+
+That’s certainly good for bank stocks—the SPDR S&P Bank exchange-traded fund (KBE) rose 6.4% this past week—and other economically sensitive sectors will likely get a boost too. “The stock market is saying we’re going to get out of this relatively soon,” Morgan Stanley’s Slimmon says. “And that’s why you want to be optimistic now.”
+
+There will be reasons for pessimism later."
+11,"Phillip SGD Money Market ETF debuts on SGX
+The new listing allows investors to improve fund yield without a liquidation strike.
+
+Singapore Exchange (SGX) has welcomed the listing of Phillip SGD Money Market ETF, the first Singapore-domiciled money market exchange-traded fund (ETF) on SGX, and the only money market ETF in South East Asia.
+
+It started trading with $100m (US$73m) in initial assets under management (AUM).
+
+The new listing is a new treasury and cash management tool for institutional investors as well as a timely alternative investment solution for individual investors to manage their ready cash efficiently.
+
+The listing is managed by Phillip Capital Management, which invests the fund in short term, high quality money market securities and deposits of established institutions to generate returns that are comparable to Singapore dollar savings deposits.
+
+The product tracks closely the performance of the FTSE SGD 3-month Singapore Dollar Swap Offered Rate (SOR) Index, a well-known measure of implied interest rate.
+
+The ETF offers fund managers and brokerage firms an additional liquidity management tool to improve the yield of their clients’ cash deposits, while individual investors can deploy the product as a more efficient management of cash relative to their banks’ savings accounts.
+
+The fund has attracted strong interest from investors with an initial AUM of $100m (US$73m), demonstrating robust demand for the first Singapore-domiciled money market ETF and the only money market ETF in South East Asia.
+
+In a press release, investors are said to be able to improve the yield pick-up of their funds without compromising liquidity and manage their core investments through a single brokerage account. The simplicity of a single account takes away the hassle involved in setting up and managing multiple accounts, and will make a straightforward cash management tool for corporate treasurers and investors."
+12,"Big three banks average 4.2% total returns in August: SGX
+OCBC, DBS, and UOB maintained a combined net interest income of $5.4b in Q2.
+
+Singapore’s big three banks averaged 4.2% total returns in August, outpacing the 1.6% median total return of global banking stocks, according to data from the Singapore Exchange (SGX).
+
+OCBC, DBS, and UOB have outpaced the top quartile of global banking stocks over the past five years with their 5.3% return vs. the 0.2% return of global banking stocks.
+
+The lenders’ quarterly net interest income surpassed $5b in Q2 2018 and maintained a combined net interest income of $5.4bin Q2, noted SGX.
+
+Global banks’ have been beset with challenges in 2020, what with the onslaught of the COVID-19 pandemic that resulted in lockdowns across markets. This caused central banks to cut rates and introduce accommodative policies to support their economies.
+
+“This year accommodative monetary policy and economic lockdowns have meant that global banks have had to contend with a sudden reduction in interest rate margins and overall demand for financing, while needing to boost loan provisions,” SGX noted in its report.
+
+Amongst key banking sector themes to watch in the second half of the year include banks’ abilities to generate income, tier 1 capital to risk-weighted assets and non-performing loan ratios."
+13,"SGX's profit up 21% to $472m in FY2020
+All revenues from FICC, equities and data, connectivity and indices rose.
+
+Singapore Exchange (SGX) saw its net profit jump 21% YoY to $472m in FY2020 from $391.1 in FY2019, an announcement revealed. Likewise, revenue also spiked 16% YoY to $1.05b from $909.8m.
+
+EBITDA rose 25% YoY to $655.7m from $523.5m over the same period, whilst earnings per share was 44.1 cents, higher than 36.5 cents in FY2019.
+
+SGX’s board of directors has proposed a final quarterly dividend of 8.0 cents per share, payable on 9 October, for approval at the forthcoming annual general meeting.
+
+“Barring unforeseen circumstances, the annualised quarterly dividend going forward will be 32 cents per share, an increase of 7%. The higher quarterly dividend is in line with our policy to pay a sustainable and growing dividend over time, consistent with our long-term growth prospects,” SGX said.
+
+Revenue from its Fixed Income as well as Currencies and Commodities (FICC) segment jumped 23% YoY to $171.4m, accounting for 16% of the total revenue. Meanwhile, its equities revenue likewise edged up 14% YoY to $759.7m, which takes up 72% of the group’s profit.
+
+In the same vein, equities–cash revenue increased 19% YoY to $399.3m, whilst revenue from the equities– derivatives unit inched up 8% YoY to $360.4m.
+
+Lastly, revenue from its data, connectivity and indices segment rose 19% YoY to $121.6m. This accounts for 12% of SGX’s total revenue. "
+14,"Alibaba Pictures to delist from SGX-ST on 4 December
+Upon delisting, the shares will only be traded on the Hong Kong Stock Exchange.
+
+Alibaba Pictures Group has received the approval from SGX-ST to delist from the local bourse on 4 December, an SGX filing revealed.
+
+Upon completion of the proposed delisting, the shares will only be traded on the Hong Kong Stock Exchange (HKEX). The voting rights and entitlement to dividends of the CDP depositors will not be affected by the proposed delisting.
+
+The start of its share transfer period is on 5 August. CDP Depositors may continue to trade their shares on the SGX-ST until the last day of trading, which is tentatively 11 November.
+
+To facilitate the process of the transfer of shares from CDP to CCASS, the firm intends to assist CDP depositors who currently do not have a trading account with a broker; and/or may be unsure as to how to open a trading account which will allow them to commence the share transfer process. For this purpose, the company has appointed UOB Kay Hian to assist CDP depositors in the said process.
+
+CDP depositors may opt to either maintain an exposure to the company by holding the shares registered on the Hong Kong share register of the company or realise cash for their holdings.
+
+If CDP depositors do not take any action during the share transfer period and have shares held with CDP as at the date of the delisting, their shares will be automatically transferred from CDP to the Hong Kong Share Register. The company will bear the costs in relation to the transfer of the shares of the remaining depositors from CDP to the Hong Kong Share Register and the issuance of physical share certificates to the Remaining Depositors.
+
+However, if the remaining depositors wish to sell or trade their shares on HKEX, they will have to make their own arrangements to deposit their shares into CCASS for credit to the account of their broker(s), and the company will not bear any charges which may be charged in this regard, including but not limited to those charged by CCASS or such broker(s) in connection with the deposit of their shares into CCASS, the firm stated.
+
+CDP Depositors may also sell their shares on the SGX-ST up to 11 November.
+
+Further, CDP depositors who wish to trade their shares on HKEX, from 5 August to no later than 5PM SGT on 20 November, may transfer their shares from CDP to CCASS through two options.
+
+First, CDP depositors may have their shares to be transferred from their securities account(s) with CDP to the CCASS account of the Hong Kong branch of the designated broker, or move their shares from the depository agent sub-account with their securities broker(s) to the depository agent sub-account with the designated broker.
+
+From there, shares will then be transferred to the CCASS account of the Hong Kong branch of the designated broker by going to its office and duly completing and executing all relevant forms and providing the relevant supporting documents that the designated broker will require.
+
+The second option will allow CDP Depositors to transfer their shares from their securities account(s) with CDP to the account of their relevant broker(s) (other than the designated broker) in CCASS during the share transfer period by themselves or through their broker(s). "
+15,"SGX to roll out 13 equity futures
+These will be launched in August and September.
+
+Singapore Exchange (SGX) will expand its Asian equity derivatives by launching 13 Asia Ex-Japan and Emerging Markets (EM) Asia regional and single country futures, a press release stated. These are based on net total return (NTR) and price return indices calculated by FTSE Russell.
+
+The new futures offer benchmarks including Indonesia, Malaysia, Philippines, Taiwan, Thailand and Vietnam, which aims to meet increasing demand for institutional-grade exchange solutions in Asia.
+
+These newest NTR products seek to extend SGX’s strong customer adoption of the MSCI index series to the FTSE Russell index series, the press release said. There are approximately $21.96t (US$16t) in reported fund assets under management (AUM) tracking FTSE Russell benchmarks.
+
+The latest contracts are expected to be certified by the Commodity Futures Trading Commission (CFTC), enabling US investors to trade them directly from within the US.
+
+The SGX FTSE Equity Net Total Return (NTR) Index Futures will be launched on 24 August. These are the SGX FTSE Asia ex-Japan NTR (USD) Index Futures, SGX FTSE Emerging Market Asia NTR (USD) Index Futures, SGX FTSE Malaysia NTR (USD) Index Futures, SGX FTSE Philippines NTR (USD) Index Futures, SGX FTSE Taiwan NTR (USD) Index Futures, and the SGX FTSE Thailand NTR (USD) Index Futures.
+
+As for the SGX FTSE Equity Price Return Index Futures (denominated in USD), those slated to launch in mid-September include the following SGX FTSE Asia ex-Japan Index Futures, SGX FTSE Emerging Market Asia Index Futures, SGX FTSE Indonesia Index Futures, SGX FTSE Malaysia Index Futures, SGX FTSE Philippines Index Futures, SGX FTSE Thailand Index Futures, and the SGX FTSE Vietnam 30 Index Futures. "
+16,"Most Singaporeans to immediately divest equities in market downturn
+But they may have lost up to 18% of gains by jumping the gun.
+
+Three in five retail investors in Singapore said that they will immediately divest their equities within a week in the event of a market downturn—despite historical data showing that this usually leads to lost gains in the long term.
+
+A study by St. James’s Place Wealth Management Asia found that 60% of Singaporean respondents would divest equities within a week, whilst almost a third (32%) will divest within twenty four hours.
+
+However, this have proven to be a costlier mistake in the long run. SJP Asia’s model found that investors who divested equities within twenty four hours of markets starting to fall on 19 February, and did not re-enter, would have lost around 18% of their investment value compared to those who stayed invested.
+
+With two in five or 41% Singaporeans without any financial plan, SJP Asia noted that a failure to plan is often driving locals to make financial decisions based on emotion rather than fact. As a result, many are falling short in their wealth creation goals, they added.
+
+“Sound financial planning goes beyond just saving to provide a clear pathway for wealth creation over time. Amidst economic uncertainty, a plan is critical as investors are more likely to act on emotion rather than fact. This behaviour does not always translate to better long-term investment outcomes,” said Gary Harvey, CEO, SJP Singapore.
+
+Savings-wise, whilst 57% of Singaporeans aspire to commit more than 20% of their annual income to savings, only 44% achieve this.
+
+Furthermore, two in five (40%) are either dissatisfied with their current savings levels or unsure if they have enough.
+
+Of those who do have a financial plan, 14% have not incorporated the cost of inflation.
+
+Amongst reasons cited by Singaporeans for not saving more are the high living costs at 38%; and a lack of discipline with how money is spent, at 37%. Another 28% said that their living costs and income are not balanced.
+
+Wealth=Happiness?
+SJP Asia also found that more than four in five Singaporeans, or 83%, believe that being wealthier would make them happier. Almost three quarters (72%) cited a lack of money as a source of stress in their family relationships.
+
+Those with higher personal incomes are more likely to feel strongly that having more wealth would make them happier – with 34% of those with monthly personal incomes of $10,000 or higher strongly believing this, compared with 24% with personal incomes below S$10,000, the study noted.
+
+It’s the same tune in terms of per househoul income, with one third (33%) of those with annual incomes above $250,000 strongly believe having more money will make them happier, compared with 23% of those with incomes below $100,000.
+
+SJP Asia said that these results show that in the pursuit of wealth, 67% of respondents under 40 are prepared to work longer and harder whilst they are young, even at the expense of personal relationships, to build wealth. A vast majority of all Singaporeans—89%— stated that generating alternative sources of income is a priority in the next 12 to 24 months.
+
+On the other hand, despite this, an equal proportion of respondents or 89% also said that having a balanced lifestyle is still more important than a higher income.
+
+This comes to heads with the 77% of Singaporeans surveyed by SJP Asia believing that being wealthier will allow them to have better work-life balance."
+17,"Yahoo Finance Yahoo Finance
+Stock market news live updates: Stocks mixed as stimulus fears bite, Intel sinks after rough Q3
+Emily McCormick
+Emily McCormick·Reporter
+Sat, 24 October 2020, 4:04 am SGT·8-min read
+Stocks reversed earlier gains and ended mixed on Friday, as investors continued to eye commentary from officials around stimulus talks and considered the final presidential debate.
+
+The S&P 500 and Nasdaq ended the day slightly higher, although the blue-chip index still logged its first weekly loss in a month after declining early in the week.
+
+The Dow ended in the red as a couple of components declined after posting disappointing quarterly results. Shares of Intel (INTC) sold off more than 10% after the company unexpectedly posted a quarterly decline in data center chip sales, driven by a near-halving of revenue from enterprise and government clients during to the pandemic. Shares of peer Dow component American Express (AXP) also declined, after the company reported third-quarter profit that missed consensus expectations.
+
+Meanwhile, Gilead’s stock (GILD) rose but then pared gains after the company’s COVID-19 antiviral treatment remdesivir became the first to receive formal approval from the U.S. Food and Drug Administration. The drug was used as part of President Donald Trump’s treatment following his COVID-19 diagnosis this month.
+
+During the regular session Thursday, the three major indices got a boost after House Speaker Nancy Pelosi told reporters in Washington that negotiators were “just about there” when it came to hashing out a deal for more virus-relief aid, stoking optimism that negotiators would manage to settle their differences and reach an agreement this week. However, Friday morning, White House economic adviser Larry Kudlow said on Bloomberg TV that “the ball’s not moving much right now” in discussions, and that he doesn’t “want to make any predictions” on timing of an agreement.
+
+Investors have been on edge over whether a deal would get done – and legislation actually passed – ahead of the November election. Just earlier this week, Pelosi had set a Tuesday deadline to come to an agreement with the White House, but later moved that goalpost out further and said she was eyeing a deal by the end of the week. And Senate Republicans have so far opposed passing a multi-trillion-dollar relief package, raising the specter that any major deal reached between House Democrats and the White House would ultimately get struck down.
+
+Data earlier in the day underscored the extent of the economic damage with the coronavirus pandemic and lack of stimulus both still at play. While headline new jobless claims fell more than expected last week, another more than half-million Americans exhausted regular state benefits and rolled onto a longer-term unemployment compensation program, suggesting a large number of individuals put out of work earlier on during the pandemic were still unemployed.
+
+
+—
+
+4:03 p.m. ET: Stocks end Friday mostly higher, but post a weekly loss
+Here’s where the major equity indices ended the session on Friday:
+
+S&P 500 (^GSPC): +11.92 points (+0.35%) to 3,465.41
+
+Dow (^DJI): -28.03 points (-0.1%) to 28,335.63
+
+Nasdaq (^IXIC): +42.28 points (+0.37%) to 11,548.28
+
+—
+
+12:36 p.m. ET: Sell off picks up speed with Dow shedding half a percent
+
+Wall Street has now taken another leg lower after Treasury Secretary Steve Mnuchin suggested “significant differences” separate the White House and Congress on a stimulus bill, further dimming prospects for a pre-election agreement. Mnuchin added that House Speaker Nancy Pelosi had “dug in” on the Democrats’ position.
+
+—
+
+12:12 p.m. ET: Indices turn lower as stimulus prospects dim; tech leads to the downside
+The three major indices erased earlier gains to trade lower Friday afternoon, led by a drop in big tech companies.
+
+Here’s where markets were trading shortly after noon:
+
+S&P 500 (^GSPC): -3.06 points (-0.09%) to 3,450.33
+
+Dow (^DJI): -106.54 points (-0.38%) to 28,257.12
+
+Nasdaq (^IXIC): -39.95 points (-0.35%) to 11,466.14
+
+Crude (CL=F): -$0.043 (1.06%) to $40.21 a barrel
+
+Gold (GC=F): -$5.70 (-0.3%) to $1,898.90 per ounce
+
+10-year Treasury (^TNX): -0.3 bps to yield 0.845%
+
+—
+
+9:50 a.m. ET: U.S. service sector activity expands by the most since February 2019
+Activity in the U.S. service sector picked up more than expected in October, according to IHS Markit’s preliminary October purchasing managers’ index (PMI).
+
+The index climbed to 56.0 for the month from 54.6 in September, with consensus economists having expected the index to remain at the same level in October. This marked the highest level since February 2019.
+
+U.S. manufacturing sector activity also rose by the most since early 2019, with its PMI ticking up to 53.3 from 53.2 in September. Readings above the neutral level of 50.0 indicate expansion in a sector.
+
+Here’s what Chris Williamson, chief business economist for IHS Markit, had to say in a statement of improvements:
+
+“The US economy looks to have started the fourth quarter on a strong footing, with business activity growing at a rate not seen since early 2019. The service sector led the expansion as increasing numbers of companies adapted to life with COVID19, while manufacturing continued to report solid growth amid rising demand from households and businesses.
+
+A slowdown in hiring and weaker new order inflows were in part attributable to hesitancy in decision making ahead of the presidential election. More encouragingly, business optimism surged higher, indicating that firms have become increasingly positive about prospects for the coming year amid hopes of renewed stimulus, COVID-19 containment measures gradually easing and greater certainty for businesses and households after the presidential elections.”
+
+—
+
+9:36 a.m. ET: Stocks open higher, even as Intel, American Express slide weighs on Dow gains
+Here were the main moves in markets, as of 9:36 a.m. ET:
+
+S&P 500 (^GSPC): +8.7 points (+0.25%) to 3,462.19
+
+Dow (^DJI): +55.61 points (+0.2%) to 28,419.27
+
+Nasdaq (^IXIC): -10.69 points (-0.1%) to 11,494.02
+
+Crude (CL=F): +$0.04 (+0.1%) to $40.68 a barrel
+
+Gold (GC=F): +$7.30 (+0.38%) to $1,911.90 per ounce
+
+10-year Treasury (^TNX): +1.2 bps to yield 0.86%
+
+—
+
+7:22 a.m. ET: American Express posts 3Q earnings miss as business ‘continues to be significantly affected by the pandemic’
+American Express on Friday posted third-quarter earnings of $1.30 per share, missing consensus estimates by 4 cents as the ongoing pandemic weighed especially hard on corporate card spending.
+
+Revenue of $8.75 billion was down 20% over last year, but still better than the $8.63 billion expected. The company noted that it has seen a “steady recovery” in overall spending volumes.
+
+“While our business continues to be significantly affected by the impacts of the pandemic, our third quarter results have increased our confidence that our strategy for managing through the current environment is the right one,” CEO Stephen Squeri said in a statement.
+
+“In fact, we had positive year-over-year growth in non-T&E [travel and expense] spending, which has long accounted for our overall volumes,” he added. “While credit remains strong, with delinquencies and net write-offs at the lowest levels we have seen in a few years, we remain cautious about the direction of the pandemic and its impact on the economy, which is reflected in our reserve levels.”
+
+Provisions for credit losses company-wide were down 24% for last year to $665 million as American Express released some reserves. The company did build reserves in its global commercial services business, where provisions were up 13% over last year to $250 million.
+
+—
+
+7:22 a.m. ET Friday: Stocks pace toward a higher open as stimulus talks remain in focus
+Here were the main moves in markets, as of 7:22 a.m. ET:
+
+S&P 500 futures (ES=F): 3,458.00, up 8.75 points or 0.25%
+
+Dow futures (YM=F): 28,350.00, up 82 points or 0.29%
+
+Nasdaq futures (NQ=F): 11,670.50, up 20.75 points or 0.18%
+
+Crude (CL=F): +$0.12 (+0.30%) to $40.76 a barrel
+
+Gold (GC=F): +$8.30 (+0.44%) to $1,912.90 per ounce
+
+10-year Treasury (^TNX): +1.2 bps to yield 0.86%
+
+—
+
+6:07 p.m. ET Thursday: Stock futures point higher
+Here were the main moves in markets, as of 6:07 p.m. ET:
+
+S&P 500 futures (ES=F): 3,454.5, up 5.25 points or 0.15%
+
+Dow futures (YM=F): 28,317.00, up 49 points or 0.17%
+
+Nasdaq futures (NQ=F): 11,674.50, up 24.75 points or 0.21%"
+18,"Iridium Communications Inc. IRDM reported relatively healthy third-quarter 2020 results, with GAAP net loss narrowing year over year on higher revenues. Despite modest recovery post COVID-19 turmoil, the stock did not witness significant growth, inching up just 0.6% in response to the results to close at $28.41 on Oct 20.
+
+Net Loss
+On a GAAP basis, net loss in the September quarter was $4 million or loss of 3 cents per share. The figure was narrower than net loss of $18 million or loss of 14 cents per share in the prior-year quarter. The year-over-year improvement was mainly driven by higher revenues and lower selling, general and administrative expenses. Decline in net interest expenses associated with the company’s refinancing of high-yield notes and credit facility in the year-ago quarter was also a contributing factor. The bottom line was narrower than the Zacks Consensus Estimate of a loss of 12 cents.
+
+Iridium Communications Inc Price, Consensus and EPS Surprise
+Iridium Communications Inc Price, Consensus and EPS Surprise
+Iridium Communications Inc Price, Consensus and EPS Surprise
+More
+Iridium Communications Inc price-consensus-eps-surprise-chart | Iridium Communications Inc Quote
+
+Revenues
+Quarterly revenues totaled $151.5 million compared with $144.8 million in the year-ago quarter. The 4.6% growth was mainly driven by strength in subscriber equipment sales and higher engineering and support service revenues, followed by a contractual step-up in hosted payload. The top line surpassed the consensus mark of $138 million.
+
+Total service revenues inched up 0.9% to $116.9 million from $115.9 million in the year-ago quarter. This was primarily driven by growing subscriber base in the commercial and government service business. Markedly, service revenues contributed 77.2% to total revenues in the third quarter. Subscriber equipment revenues improved 17.5% to $25.1 million from $21.4 million in the year-ago quarter due to robust demand in the reported quarter. Continued favorable trends related to the U.S. dollar exchange rate were also a vital factor. Engineering and support service revenues surged 24.9% to $9.4 million from $7.6 million in the prior-year quarter, mainly due to the episodic nature of contracted work with the U.S. government.
+
+Other Details
+Total operating expenses were $138.8 million compared with $136.8 million in the prior-year quarter. Operational EBITDA (OEBITDA) increased 5.6% to $93.4 million or 61.7% of revenues from $88.5 million or 61.1% of revenues in the third quarter of 2019.
+
+During the quarter, the company registered 1,429,000 billable subscribers compared with 1,269,000 in the year-ago quarter. The year-over-year increase was backed by growth in commercial IoT customers, driven by rising activations of personal communications devices.
+
+Cash Flow & Liquidity
+During the first nine months of 2020, Iridium generated $179.1 million of net cash from operations compared with $142.5 million in the prior-year period. Capital expenditures were $10.6 million in the reported quarter compared with $10.2 million in the year-ago period. As of Sep 30, the company had $182.7 million in cash and equivalents with $1,459 million of net debt.
+
+2020 Guidance Raised
+Despite the macroeconomic headwinds caused by COVID-19 pandemic, Iridium has emerged as a strong player on the back of its resilient business model. The company has updated its outlook for 2020. With healthy demand trend of subscriber equipment, its revenues are expected to be either equal to or greater than 2019 level.
+
+Iridium expects full-year 2020 total service revenues to grow nearly 3% compared with the prior guidance of 1-2% rise backed by stabilized IoT and voice business post COVID-19 crisis. It expects full-year 2020 OEBITDA to be nearly $355 million compared with prior guidance of $340 million. Net leverage is anticipated to be nearly 4x OEBITDA compared with the prior expectation of 4.3x OEBITDA at the end of 2020.
+
+Zacks Rank & Stocks to Consider
+Iridium currently has a Zacks Rank #3 (Hold).
+
+Some better-ranked stocks in the broader industry are Viasat, Inc. VSAT, Badger Meter, Inc. BMI and Sensata Technologies Holding plc ST. While Viasat and Badger Meter sport a Zacks Rank #1 (Strong Buy), Sensata carries a Zacks Rank #2 (Buy). You can see the complete list of today’s Zacks #1 Rank stocks here.
+
+Viasat delivered a trailing four-quarter positive earnings surprise of 361.3%, on average.
+
+Badger Meter delivered a trailing four-quarter positive earnings surprise of 5.4%, on average.
+
+Sensata delivered a trailing four-quarter positive earnings surprise of 1.2%, on average."
+19,"The market expects Sensata (ST) to deliver a year-over-year decline in earnings on lower revenues when it reports results for the quarter ended September 2020. This widely-known consensus outlook is important in assessing the company's earnings picture, but a powerful factor that might influence its near-term stock price is how the actual results compare to these estimates.
+
+The stock might move higher if these key numbers top expectations in the upcoming earnings report, which is expected to be released on October 27. On the other hand, if they miss, the stock may move lower.
+
+While management's discussion of business conditions on the earnings call will mostly determine the sustainability of the immediate price change and future earnings expectations, it's worth having a handicapping insight into the odds of a positive EPS surprise.
+
+Zacks Consensus Estimate
+
+This maker of sensing, electrical protection, control and power management products is expected to post quarterly earnings of $0.53 per share in its upcoming report, which represents a year-over-year change of -41.1%.
+
+Revenues are expected to be $754.94 million, down 11.2% from the year-ago quarter.
+
+Estimate Revisions Trend
+
+The consensus EPS estimate for the quarter has been revised 2.44% higher over the last 30 days to the current level. This is essentially a reflection of how the covering analysts have collectively reassessed their initial estimates over this period.
+
+Investors should keep in mind that an aggregate change may not always reflect the direction of estimate revisions by each of the covering analysts.
+
+Price, Consensus and EPS Surprise
+
+
+Earnings Whisper
+
+Estimate revisions ahead of a company's earnings release offer clues to the business conditions for the period whose results are coming out. Our proprietary surprise prediction model -- the Zacks Earnings ESP (Expected Surprise Prediction) -- has this insight at its core.
+
+The Zacks Earnings ESP compares the Most Accurate Estimate to the Zacks Consensus Estimate for the quarter; the Most Accurate Estimate is a more recent version of the Zacks Consensus EPS estimate. The idea here is that analysts revising their estimates right before an earnings release have the latest information, which could potentially be more accurate than what they and others contributing to the consensus had predicted earlier.
+
+Thus, a positive or negative Earnings ESP reading theoretically indicates the likely deviation of the actual earnings from the consensus estimate. However, the model's predictive power is significant for positive ESP readings only.
+
+A positive Earnings ESP is a strong predictor of an earnings beat, particularly when combined with a Zacks Rank #1 (Strong Buy), 2 (Buy) or 3 (Hold). Our research shows that stocks with this combination produce a positive surprise nearly 70% of the time, and a solid Zacks Rank actually increases the predictive power of Earnings ESP.
+
+Please note that a negative Earnings ESP reading is not indicative of an earnings miss. Our research shows that it is difficult to predict an earnings beat with any degree of confidence for stocks with negative Earnings ESP readings and/or Zacks Rank of 4 (Sell) or 5 (Strong Sell).
+
+How Have the Numbers Shaped Up for Sensata?
+
+For Sensata, the Most Accurate Estimate is higher than the Zacks Consensus Estimate, suggesting that analysts have recently become bullish on the company's earnings prospects. This has resulted in an Earnings ESP of +4.25%.
+
+On the other hand, the stock currently carries a Zacks Rank of #2.
+
+So, this combination indicates that Sensata will most likely beat the consensus EPS estimate.
+
+Does Earnings Surprise History Hold Any Clue?
+
+Analysts often consider to what extent a company has been able to match consensus estimates in the past while calculating their estimates for its future earnings. So, it's worth taking a look at the surprise history for gauging its influence on the upcoming number.
+
+For the last reported quarter, it was expected that Sensata would post earnings of $0.16 per share when it actually produced earnings of $0.18, delivering a surprise of +12.50%.
+
+Over the last four quarters, the company has beaten consensus EPS estimates two times.
+
+Bottom Line
+
+An earnings beat or miss may not be the sole basis for a stock moving higher or lower. Many stocks end up losing ground despite an earnings beat due to other factors that disappoint investors. Similarly, unforeseen catalysts help a number of stocks gain despite an earnings miss.
+
+That said, betting on stocks that are expected to beat earnings expectations does increase the odds of success. This is why it's worth checking a company's Earnings ESP and Zacks Rank ahead of its quarterly release. Make sure to utilize our Earnings ESP Filter to uncover the best stocks to buy or sell before they've reported.
+
+Sensata appears a compelling earnings-beat candidate. However, investors should pay attention to other factors too for betting on this stock or staying away from it ahead of its earnings release."
+20,"Badger Meter, Inc. BMI reported impressive third-quarter 2020 results, with net earnings and revenues increasing year over year. The stock gained an impressive 11.9% in response to the results, closing at $80.38 on Oct 16.
+
+Net Income
+Quarterly net earnings for the reported quarter were $14.9 million or 51 cents per share compared with $12.7 million or 44 cents per share in the year-ago quarter. The year-over-year improvement can be primarily attributed to higher revenues. Further, the bottom line beat the Zacks Consensus Estimate by 11 cents.
+
+Badger Meter, Inc. Price, Consensus and EPS Surprise
+Badger Meter, Inc. Price, Consensus and EPS Surprise
+Badger Meter, Inc. Price, Consensus and EPS Surprise
+More
+Badger Meter, Inc. price-consensus-eps-surprise-chart | Badger Meter, Inc. Quote
+
+Revenues
+Quarterly net sales increased to $113.6 million from $108.6 million in the year-ago quarter. The 4.5% revenue growth was primarily due to a surge in manufacturing output with consistent demand post COVID-19-induced lockdown. Also, the company witnessed a favorable mix of high-end products and services along with higher BEACON Software as a Service revenues. The top line surpassed the consensus mark of $104 million.
+
+As the pandemic lockdown eased, municipal water sales rose 11% owing to backlog conversion and recovering orders. Also, the company continued to witness higher demand for and adoption of new technology products and solutions like ORION Cellular radios and ultrasonic meter technology, which contributed to the impressive sales growth in the reported quarter. However, flow instrumentation declined 18% year over year due to sluggish industrial end markets, particularly due to challenges posed by the COVID-19 outbreak.
+
+Other Details
+Gross profit was $45 million, up 8% from $41.7 million in the year-earlier quarter. Gross margin was 39.6%, up 120 basis points (bps) year over year. The upside was primarily driven by favorable sales mix and higher sales with prior-year non-recurring discrete warranty charge. Operating earnings were $19.5 million or 17.2% of sales compared with respective tallies of $16.4 million and 15.1% in the year-earlier quarter.
+
+Selling, engineering and administration expenses were $25.5 million compared with $25.2 million in the prior-year quarter. The increase was primarily due to higher personnel costs. However, it was partially offset by lower travel and other pandemic-related expenses.
+
+Cash Flow & Liquidity
+During the first nine months of fiscal 2020, Badger Meter generated $73.7 million of net cash from operations compared with $61.1 million in the prior-year period, driven by strong earnings conversion. Free cash flow for the quarter was unchanged at $19.1 million despite higher federal income tax payment. With a stable free cash flow, the company’s performance was driven by a robust balance sheet position along with an effective working capital management. As of Sep 30, the company had $93.9 million in cash and equivalents with no short-term debt.
+
+Moving Forward
+With the gradual stabilization of overall end-market activities post lockdowns, Badger Meter remains optimistic related to its near-term outlook. The Milwaukee, WI-based controls products manufacturer expects to witness solid backlog and bid pipeline on the back of increasing orders in the upcoming quarters. This will eventually help the company to ensure smooth functioning of business operations. Although a small portion of customers could face budget constraints with project deferrals, Badger Meter remains committed to delivering critical products and services to its diversified customer base during this hour of crisis.
+
+The company is well poised to enable strategic, tuck-in mergers and acquisitions to augment offerings across global markets with a strong liquidity position. Badger Meter is focused on investing in digital solutions that operationalize real-time data and utilize remote solutions to reduce overall costs and enhance efficiency. For additional financial flexibility, the company has $125 million under revolving credit facility to fund capital allocation priorities. Customer demand is anticipated to be the crux of product and technology roadmap, with competitive share and positioning. Continued R&D investments with inventory planning capabilities are likely to provide potential opportunities in the future.
+
+Zacks Rank & Other Stocks to Consider
+Badger Meter currently sports a Zacks Rank #1 (Strong Buy).
+
+Some other top-ranked stocks in the broader industry are PerkinElmer, Inc. PKI, Sensata Technologies Holding plc ST and Mettler-Toledo International Inc. MTD. While PerkinElmer sports a Zacks Rank #1, Sensata and Mettler-Toledo carry a Zacks Rank #2 (Buy). You can see the complete list of today’s Zacks #1 Rank stocks here.
+
+PerkinElmer delivered a trailing four-quarter positive earnings surprise of 29.7%, on average.
+
+Sensata delivered a trailing four-quarter positive earnings surprise of 1.2%, on average.
+
+Mettler-Toledo delivered a trailing four-quarter positive earnings surprise of 6.7%, on average.
+
+Zacks’ Single Best Pick to Double
+From thousands of stocks, 5 Zacks experts each picked their favorite to gain +100% or more in months to come. From those 5, Zacks Director of Research, Sheraz Mian hand-picks one to have the most explosive upside of all.
+
+With users in 180 countries and soaring revenues, it’s set to thrive on remote working long after the pandemic ends. No wonder it recently offered a stunning $600 million stock buy-back plan.
+
+The sky’s the limit for this emerging tech giant. And the earlier you get in, the greater your potential gain."

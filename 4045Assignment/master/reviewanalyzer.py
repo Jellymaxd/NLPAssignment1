@@ -1,110 +1,38 @@
 from senticnet.senticnet import SenticNet
 import nltk.data
-import spacy
-from nltk.stem.porter import *
+from nltk.tokenize import wordpunct_tokenize
+from nounadjranker import NJpairranker
 
-def NJpairranker(sentlist, topk):
-    noun_adj_pair={}
+def sentencepolarity(sentence):
 
-
-    #using spacy dependency parsing
-    nlp = spacy.load("en_core_web_sm")
-    for sent in sentlist:
-        doc = nlp(sent)
-        for token in doc:
-            #print(token.text, token.dep_, token.head.text, token.head.pos_,[child for child in token.children])
-
-            #amod
-            if token.dep_=='amod':
-                #key exist, update
-                if (token.head.text, token.text) in noun_adj_pair:
-                    noun_adj_pair[(token.head.text, token.text)] = noun_adj_pair[(token.head.text, token.text)]+1
-                else:
-                    noun_adj_pair[(token.head.text, token.text)]=1
-
-            #acomp
-            elif token.pos_=='AUX':
-                childofAUX=[child for child in token.children if child.dep_=='nsubj' or child.dep_=='acomp']
-                childdep=[child.dep_ for child in childofAUX]
-                childofAUX = [child.text for child in childofAUX]
-                #does not have both nsubj and acomp
-                if ('acomp' not in childdep or 'nsubj' not in childdep):
-                    continue
-
-                #key exist,update
-                elif tuple(childofAUX) in noun_adj_pair:
-                    noun_adj_pair[tuple(childofAUX)]=noun_adj_pair[tuple(childofAUX)]+1
-                else:
-                    noun_adj_pair[tuple(childofAUX)]=1
-
-            else:
-                continue
-
-    #final dict with NN-JJ pair: frequency
-    noun_adj_pair={k: v for k, v in sorted(noun_adj_pair.items(), key=lambda item: item[1], reverse=True)}
-
-    """with stemmed nouns"""
-    stemmer=PorterStemmer()
-    stemmed_pairs={}
-    for k,v in noun_adj_pair.items():
-        tempkey=stemmer.stem(k[0])
-        if tempkey in stemmed_pairs:
-            stemmed_pairs[tempkey].append((k[1],v))
-        else:
-            stemmed_pairs[tempkey]=[(k[1],v)]
-
-    #final dict with NN-JJ pairs with frequency (NN stemmed)
-    stemmed_pairs={k: v for k, v in sorted(stemmed_pairs.items(), key=lambda item: len(item[1]), reverse=True)}
-
-    #return (list((stemmed_pairs).items())[:5])
-    resultlist=list((noun_adj_pair).items())
-    return (resultlist[0:topk] if len(resultlist)>=topk else resultlist)
-
-
-def analyzepolarity(NJpairs):
-
-    totalcount = sum([pair[1] for pair in NJpairs])
-    posvote=negvote=neuvote=0
     sum_pol=0
-    for pair in NJpairs:
-        adjtag = pair[0][1]
+    toks=wordpunct_tokenize(sentence)
+    for tok in toks:
         try:
-            pol_intensity = float(sn.polarity_intense(adjtag))*pair[1]/totalcount
+            if tok in stop_words:
+                toks.remove(tok)
+                continue
+            pol_intensity = float(sn.polarity_intense(tok))
         except Exception:
             continue
         sum_pol=sum_pol+pol_intensity
 
-        try:
-            pol_value=sn.polarity_value(adjtag)
-            if pol_value=='positive':
-                posvote=posvote+pair[1]
-            elif pol_value=='negative':
-                negvote=negvote+pair[1]
-            else:
-                neuvote=neuvote+pair[1]
-        except Exception:
-            continue
-
-    winner=max([posvote,negvote,neuvote])
-    if posvote==winner:
-        if sum_pol>0.4:
-            return "strongly positive"
-        elif sum_pol>0.2:
-            return "weakly positive"
-    elif negvote == winner:
-        if sum_pol < -0.4:
-            return "strongly negative"
-        elif sum_pol < -0.2:
-            return "weakly negative"
+    #average polarity intensity for the sentence
+    ave_pol=sum_pol/len(toks)
+    #winner=max([posvote,negvote,neuvote])
+    if ave_pol > 0:
+            return "positive"
+    elif ave_pol<0:
+            return "negative"
     else:
         return "neutral"
 
-def analyzemood(NJpairs):
+
+def reviewmood(pairlist):
     moodlist=[]
-    for pair in NJpairs:
-        adjtag = pair[0][1]
+    for pair in pairlist:
         try:
-            mood = sn.moodtags(adjtag)
+            mood = sn.moodtags(pair[0][1])
         except Exception:
             continue
         moodlist.append(mood)
@@ -112,24 +40,24 @@ def analyzemood(NJpairs):
     moodlist=[mood for sublist in moodlist for mood in sublist]
     return set(moodlist)
 
-def analyzesentics(NJpairs):
-    totalcount = sum([pair[1] for pair in NJpairs])
+"""
+def analyzesentics(sentence):
 
     senticdict={'aptitude':0,
     'sensitivity':0,
     'attention':0,
     'pleasantness':0}
 
-    for pair in NJpairs:
+    for tok in wordpunct_tokenize(sentence):
         try:
-            adjtag = pair[0][1]
-            senticdict['aptitude']=senticdict['aptitude']+float(sn.sentics(adjtag)['aptitude'])*pair[1]/totalcount
-            senticdict['sensitivity'] = senticdict['sensitivity'] + float(sn.sentics(adjtag)['sensitivity'])*pair[1]/totalcount
-            senticdict['pleasantness'] = senticdict['pleasantness'] + float(sn.sentics(adjtag)['pleasantness'])*pair[1]/totalcount
-            senticdict['attention'] = senticdict['attention'] + float(sn.sentics(adjtag)['attention'])*pair[1]/totalcount
+            senticdict['aptitude']+=float(sn.sentics(tok)['aptitude'])
+            senticdict['sensitivity']+=float(sn.sentics(tok)['sensitivity'])
+            senticdict['pleasantness']+=float(sn.sentics(tok)['pleasantness'])
+            senticdict['attention']+=float(sn.sentics(tok)['attention'])
         except Exception:
             continue
     return(hourglass_emotions(senticdict))
+
 
 def hourglass_emotions(senticdict):
     emolist=[]
@@ -174,54 +102,79 @@ def hourglass_emotions(senticdict):
         (0, 0, 0, 0): ('disapproval', 'awe', 'remorse', 'coercive')}
 
         result=hourglass_dict[pl, sen, at, apt] if (pl, sen, at, apt) in hourglass_dict else ('neutral')
-        return result
+        return result"""
 
+def reviewpolarity(pairlist):
+
+    totalcount = sum([pair[1] for pair in pairlist])
+    sum_pol = 0
+    for pair in pairlist:
+        adjtag = pair[0][1]
+        try:
+            pol_intensity = float(sn.polarity_intense(adjtag)) * pair[1] / totalcount
+        except Exception:
+            continue
+        sum_pol = sum_pol + pol_intensity
+
+    if sum_pol > 0:
+            return "positive"
+    elif sum_pol< 0:
+            return "negative"
+    else:
+        return "neutral"
 
 
 if __name__=="__main__":
+
+    # stopwords
+    stop_words = []
+    with open('data/nltk_stopwords.txt', 'r') as f1:
+        for line in f1.readlines():
+            stop_words.append(line.rstrip('\n'))
+        f1.close()
 
     print('--------Welcome to review sentiment analyzer!---------')
 
     while True:
 
 
-        print('--------enter the review you wish to be analyzed:-------')
-        print ("Enter/Paste your content+double Enter to save.")
-        print("or enter q+double Enter to quit\n")
+        print('-------enter the review you wish to be analyzed:------')
+        print ("      Enter/Paste your content+double Enter to save.     ")
+        print("            or Ctrl+D to quit\n")
 
         review=''
-        while True:
-            line = input()
-            review = review + line
-            if line.strip() == '':
-                break
+        try:
+            while True:
+                line=input()
+                if line:
+                    review=review+line
+                else:
+                    break
 
-        if review=='q' or review=='Q':
+        except EOFError:
+            print('application terminted through keyboard interrupt')
             exit()
 
         sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
         sents = sent_detector.tokenize(review)
-
         # get noun-adj pairs
         pairlist = NJpairranker(sents, -1)
-        sn = SenticNet()
+        #senticnet api
+        sn=SenticNet()
 
+        print('\n****analyzing polarity of the sentences...****')
+        print()
+        for sent in sents:
+            print(('    The polarity of the sentence ###{}### is {}').format(sent, sentencepolarity(sent)))
+        print()
 
-        print('\n****analyzing polarity of this review....****')
+        print('\n****analyzing polarity of the review...****')
         print()
-        print('    The polarity of this review is: ',analyzepolarity(pairlist))
-        print()
+        print(('    The polarity of the review is {}').format(reviewpolarity(pairlist)))
 
         print('****analyzing mood of this review....****')
         print()
         print('    Possible mood tags of this review:')
-        for mood in analyzemood(pairlist):
+        for mood in reviewmood(pairlist):
             print(mood)
-        print()
-
-        print('****analyzing emotions of this review....****')
-        emolist=analyzesentics(pairlist)
-        print()
-        print('    Possible emotions of this review:')
-        print(emolist)
         print()

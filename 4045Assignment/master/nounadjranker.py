@@ -46,17 +46,20 @@ def NJpairranker(sentlist, topk):
                     noun_adj_pair[(token.head.text, token.text)]=1
 
             #acomp
-            elif token.pos_=='AUX':
+
+            elif token.head.pos_=='AUX' or 'VERB' in token.head.pos_:
                 childofAUX=[child for child in token.children if child.dep_=='nsubj' or child.dep_=='acomp']
                 childdep=[child.dep_ for child in childofAUX]
                 childofAUX = [child.text for child in childofAUX]
+
                 #does not have both nsubj and acomp
-                if ('acomp' not in childdep or 'nsubj' not in childdep):
+                if (('acomp' not in childdep) or ('nsubj' not in childdep)):
                     continue
 
                 #key exist,update
                 elif tuple(childofAUX) in noun_adj_pair:
                     noun_adj_pair[tuple(childofAUX)]=noun_adj_pair[tuple(childofAUX)]+1
+                #create key
                 else:
                     noun_adj_pair[tuple(childofAUX)]=1
 
@@ -80,7 +83,7 @@ def NJpairranker(sentlist, topk):
 
     #final dict with NN-JJ pairs with frequency (NN stemmed)
     stemmed_pairs={k: v for k, v in sorted(stemmed_pairs.items(), key=lambda item: len(item[1]), reverse=True)}
-
+    stemmed_pairs =list(stemmed_pairs.items())
     #return (list((stemmed_pairs).items())[:5])
     resultlist=list((noun_adj_pair).items())
     return (resultlist[0:topk] if len(resultlist)>=topk else resultlist)
@@ -102,7 +105,9 @@ if __name__=="__main__":
     # segment into sentences
     sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
     sent_pes = sent_detector.tokenize(pes_doc)
-    print(NJpairranker(sent_pes))
+    print('noun-adjective pair | frequency')
+    for pair in NJpairranker(sent_pes,5):
+        print(pair)
 
     #postags = [nltk.pos_tag(nltk.word_tokenize(sent)) for sent in sent_pes]
 

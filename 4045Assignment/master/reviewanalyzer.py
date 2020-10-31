@@ -171,10 +171,15 @@ if __name__=="__main__":
         print('\n****analyzing polarity of the review...****')
         print()
         print(('    The polarity of the review is {}').format(reviewpolarity(pairlist)))
+        print()
 
         print('****analyzing mood of this review....****')
         print()
-        print('    Possible mood tags of this review:')
-        for mood in reviewmood(pairlist):
-            print(mood)
+        moodtags = reviewmood(pairlist)
+        if len(moodtags) == 0:
+            print('    not enough information for mood analysis')
+        else:
+            print('    Possible mood tags of this review:')
+            for mood in moodtags:
+                print(mood)
         print()
